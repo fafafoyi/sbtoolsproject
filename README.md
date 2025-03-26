@@ -1,2 +1,2 @@
 This is the document for sbtools project 1
-branch merge commit
+branch merge commit1
