@@ -3,8 +3,8 @@ name: CI Pipeline
 on: 
   push:
     branches:
-      - main  # Runs tests on every push to the main branch
-      - dev   # Runs tests on the dev branch too
+      - master  # Runs tests on every push to the main branch
+      
 
 jobs:
   run-tests:
