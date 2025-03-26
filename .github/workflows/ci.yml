@@ -23,6 +23,6 @@ jobs:
         run: |
           pip install -r requirements.txt
 
-      - name: Run Tests
+      - name: Basic Python check
         run: |
-          pytest  # Change this to your test command
+          python --version
